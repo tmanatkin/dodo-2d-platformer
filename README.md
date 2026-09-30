@@ -1,4 +1,4 @@
-# Dodo 2D Game
+# Dodo 2D Platformer
 
 2D Unity platformer featuring a dodo.
 
