@@ -8,4 +8,5 @@
 <img src=".github/preview.png" width="640" alt="Dodo 2D Platformer">
 
 - Playable browser build through Unity WebGL
+- Keyboard controls with A/D or arrow keys to move and Space to jump
 - Custom movement physics with jumping and wall sliding
